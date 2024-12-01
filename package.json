@@ -1,0 +1,18 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "My First Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "tharun m",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
