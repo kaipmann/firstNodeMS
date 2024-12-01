@@ -1,0 +1,6 @@
+applications:
+  - name: firstProject
+    memory: 256M
+    instances: 1
+    buildpack: nodejs_buildpack
+    command: node index.js
